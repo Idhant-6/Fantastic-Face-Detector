@@ -13,7 +13,7 @@
 * Extract The Zip File.
 * Run The Hand Detection.py File And Wait for it to Configure itself for few seconds,
 * After The Camera Has Been started, Then Show your hands in the Camera.
-* And Then, Wow! You Can see that The Project will Detect the 21 Landmarks on Your hands and show it in the camera!!
+* And Then, Wow! You can see that the Project can not detect the Face mesh and show it in the camera!!
 * Press Escape Key To Close The Camera if You Want...
 
 ## Fianlly Experiments! 👨‍🔬
