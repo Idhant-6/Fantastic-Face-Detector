@@ -21,7 +21,7 @@
 * Try Speaking Something in camera started by the Program! 
 * Try Blinking your eyes One by one In the Camera!
 * Try Turning Your Face to any Degree!
-* You Can Try anything You want with The Detector!
+* You Can Try anything You want with The Detector...
 
 
 ### And If you Enjoyed All That, Then Star This Repository! 🌟
