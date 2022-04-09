@@ -6,8 +6,7 @@
 
 ## Now, How To Use This Project? 🤔
 ##### Open Terminal (or Command Prompt if You're on Windows 10 or older) 
-* `pip install mediapipe`
-* `pip install opencv-python`
+* `pip install -r requirements.txt`
 ##### After You've installed the Modules, 💻
 * Click on The Code button in the Repository, And Then Click on Download Zip.
 * Extract The Zip File.
